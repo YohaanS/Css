@@ -1,0 +1,99 @@
+h1 {
+ color: red;
+ font-family: fantasy;
+ font-size: 2.5em;
+}
+h2 {
+ color: gold;
+ font-family: sans-serif, Arial, Helvetica;
+ font-size: 1.5em;
+}
+p {
+ color: rgb(0, 255, 38);
+ font-family: monospace;
+}
+body {
+ background-color: rgb(18, 133, 153);
+ font-size: 12px;
+ text-align: center;
+}
+h3 {
+ color: rgb(0, 229, 255);
+}
+ol, li {
+ color: rgb(8, 0, 255);
+}
+ul li {
+ color: gold;
+}
+h4 {
+ background-color: aliceblue;
+}
+h6 {
+ color: yellow;
+}
+.fact {
+ color: rgb(255, 247, 0);
+}
+.songs {
+ color: purple;
+ background-color: yellow;
+ font: italic 10px cursive;
+ line-height: 1.5em;
+ text-align: center;
+}
+table {
+ color: red;
+}
+#Info {
+ font-weight: bold;
+ text-decoration: underline;
+ width: 70%;
+ height: 180px;
+ overflow-y: auto;
+ overflow-x: hidden;
+ margin: 15px 0px 10px 6px;
+ padding: 6px;
+}
+.Useful {
+  color: blue;
+}
+#important {
+ background: rgb(143, 141, 141)
+ 
+}
+#H1 {
+ background: blue;
+}
+img {
+ width: 120px;
+ margin-right: 10px;
+ margin-bottom: 10px;
+ border: 6px ridge red;
+}
+#container {
+ width: 400px;
+ margin: auto;
+ border: 1px solid rgb(145, 0, 0);
+ border-top: 10px solid purple;
+ padding: 15px;
+}
+#important {
+ border: 2px dashed rgb(161, 161, 161);
+ clear: both;
+}
+h1 {
+ position: fixed;
+ left: 1000px;
+}
+#I_Link {
+ text-align: left;
+ float: right;
+}
+#Lego_Robot {
+ width: 100px;
+ float: left;
+ margin-right: 6px;
+ width: 30%;
+ margin-left: 10px;
+}
